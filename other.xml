@@ -1,0 +1,30 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6141141" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5875" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="implementation&#10;go to" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RiderNuGetManagementPanel.Splitter" value="0.48320895" />
+    <property name="RiderUnitTestViewSettings.managementSplitterOrientation" value="true" />
+    <property name="SearchEveryWhereHistory" value="&quot; +&#10;&quot;&quot;&#10;`&#10;throw new NotImplementedException();&#10;au" />
+    <property name="evlsprt3.182" value="18" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Projects/mi-benchmark-api/CustomBenchmarkToolApi.sln&#10;/Users/bor06/Documents/Projects/Benchmarks/mi-benchmark-api/CustomBenchmarkToolApi.sln&#10;/Users/bor06/Documents/Projects/mi-publics-composite/MI.Publics.Composite.sln&#10;/Users/bor06/Documents/Projects/mi-benchmark-models/MI.Benchmark.Models.sln&#10;/Users/bor06/Documents/Projects/Benchmarks/mi-benchmark-models/MI.Benchmark.Models.sln&#10;/Users/bor06/Documents/Projects/Benchmarks/mi-benchmark-loader/MIBenchLoader.sln&#10;/Users/bor06/Documents/Projects/Benchmarks/mi-benchmark-models/MI.Benchmark.Models/Mongo/BlackrockHoldings.cs&#10;/Users/bor06/Documents/Projects/mi-benchmark-models/MI.Benchmark.Models/Mongo/RawMsciPublicEquityMonthlyIndice.cs&#10;/Users/bor06/Documents/Projects/mi-sftp/SFTP.sln&#10;/Users/bor06/Documents/Projects/Benchmarks/MI-Benchmarking-Rule-API/BenchmarkRulesetAPI.sln&#10;/Users/bor06/Documents/Projects/mi-scheduling-service/mi-scheduling-service.sln&#10;/Users/bor06/Documents/Projects/SFTP/mi-sftp/SFTP.sln&#10;/Users/bor06/Documents/Projects/MI-Benchmarking-Rule-API/BenchmarkRulesetAPI.sln&#10;/Users/bor06/Documents/Projects/mi-cascade-api/MI.Cascade.API.sln&#10;/Users/bor06/Documents/Projects/ToGitlab/mi-scheduling-service/mi-scheduling-service.sln&#10;/Users/bor06/Documents/Projects/chrono-api/chrono-api.sln&#10;/Users/bor06/Documents/Projects/ToGitlab/mi-scheduling-service/Models.Tests/Models.Tests.csproj&#10;/Users/bor06/Documents/Projects/ToGitlab/mi-scheduling-service/Models/Models.csproj&#10;/Users/bor06/Documents/Projects/ToGitlab/mi-scheduling-service/DomainLogic.Tests/DomainLogic.Tests.csproj&#10;/Users/bor06/Documents/Projects/ToGitlab/mi-scheduling-service/DomainLogic/DomainLogic.csproj&#10;/Users/bor06/Documents/Projects/ToGitlab/mi-scheduling-service/DataAccessLayer/DataAccessLayer.csproj&#10;/Users/bor06/Documents/Projects/ToGitlab/mi-scheduling-service/API.Tests/API.Tests.csproj&#10;/Users/bor06/Documents/Projects/ToGitlab/mi-scheduling-service/API/API.csproj&#10;/Users/bor06/Documents/Projects/ToGitlab&#10;/Users/bor06/Documents/Projects/ToGitlab/mi-scheduling-service/netcore2-boilerplate.sln&#10;/Users/bor06/Documents/Projects/mi-scheduling-service/netcore2-boilerplate.sln&#10;/Users/bor06/Documents/DeleteMe/algorithms/Algorithms.sln&#10;/Users/bor06/Documents/GitLab/Consistency/mi-publics-composite/MI.Publics.Composite.sln&#10;/Users/bor06/Documents/GitLab/Consistency/mi-benchmark-models/MI.Benchmark.Models.sln&#10;/Users/bor06/Documents/GitLab/mi-benchmark-api/CustomBenchmarkToolApi.sln" />
+    <property name="file.gist.reindex.count" value="217" />
+    <property name="fileTypeChangedCounter" value="39" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/Documents/Projects/mi-benchmark-api" />
+    <property name="last_selected_template" value="More Templates|" />
+    <property name="last_selected_template_parameters" value="Type=xUnit;Language=C#;Framework=netcoreapp2.1;" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

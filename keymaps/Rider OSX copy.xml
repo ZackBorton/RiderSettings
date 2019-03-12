@@ -1,4 +1,8 @@
 <keymap version="1" name="Rider OSX copy" parent="Rider OSX">
+  <action id="ActivateErrorsInSolutionToolWindow">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="r" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
@@ -6,15 +10,16 @@
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
-  <action id="ExtractInterface">
-    <keyboard-shortcut first-keystroke="meta e" />
-  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta e" second-keystroke="r" />
   </action>
   <action id="Jdbc.OpenEditor.DDL">
     <keyboard-shortcut first-keystroke="meta b" />

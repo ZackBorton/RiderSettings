@@ -12,6 +12,7 @@
   <action id="EditorDuplicate" />
   <action id="ExtractInterface">
     <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="meta e" second-keystroke="i" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoDeclaration">

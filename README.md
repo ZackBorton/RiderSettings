@@ -17,9 +17,10 @@ You can click Merge if you want the repository to keep a combination of the remo
 * On the first sync, you will be prompted to specify a username and password. It is recommended to use an access token for GitHub authentication. If, for some reason, you want to use a username and password instead of an access token, or your Git hosting provider doesn't support it, it is recommended to configure the Git credentials helper.
 
 ### Shortcut map
-⌘E : Extract Interface
-⌘I : Implementation
-⌘D : Declaration
+* ⌘E : Extract Interface
+* ⌘I : Implementation
+* ⌘D : Declaration
+* ⌘RP : Resume Program
 
 ### Jetbrains file structure
 Mac OS X

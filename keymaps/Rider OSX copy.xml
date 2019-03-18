@@ -1,16 +1,29 @@
 <keymap version="1" name="Rider OSX copy" parent="Rider OSX">
+  <action id="ActivateErrorsInSolutionToolWindow">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="r" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
+  <action id="ExtractInterface">
+    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="meta e" second-keystroke="i" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta e" second-keystroke="r" />
   </action>
   <action id="Jdbc.OpenEditor.DDL">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -22,8 +35,22 @@
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="RecentFiles" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="p" />
+  </action>
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
 </keymap>

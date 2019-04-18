@@ -6,6 +6,10 @@
           <option name="url" value="http://github.nml.com" />
           <option name="userName" value="bor06" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.nmlv.nml.com" />
+          <option name="userName" value="bor06" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

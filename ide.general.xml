@@ -14,7 +14,6 @@
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="ide.win.file.chooser.native" value="true" />
     <entry key="parameter.info.max.visible.rows" value="10" />
-    <entry key="ide.win.frame.decoration" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="mac.editor.thumb.default.alpha.base" value="0" />
@@ -26,5 +25,10 @@
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="performance.watcher.sampling.interval.ms" value="200" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
+    <entry key="ide.borderless.title.project.path" value="false" />
+    <entry key="ide.borderless.title.classpath" value="false" />
+    <entry key="ide.borderless.title.product" value="false" />
   </component>
 </application>

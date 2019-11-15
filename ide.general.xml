@@ -30,5 +30,6 @@
     <entry key="ide.borderless.title.project.path" value="false" />
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>

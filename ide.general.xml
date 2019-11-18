@@ -24,12 +24,12 @@
     <entry key="mac.editor.thumb.default.fill.max" value="150" />
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
     <entry key="ide.borderless.title.project.path" value="false" />
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>

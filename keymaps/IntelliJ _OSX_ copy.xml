@@ -1,0 +1,6 @@
+<keymap version="1" name="IntelliJ (OSX) copy" parent="Mac OS X 10.5+">
+  <action id="ExtractInterface">
+    <keyboard-shortcut first-keystroke="shift meta e" second-keystroke="i" />
+  </action>
+  <action id="RecentLocations" />
+</keymap>
